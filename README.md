@@ -3,10 +3,12 @@
 2. 修改 emoji版本。
 3. <code>pip3 install emoji==1.7.0</code>
 4. 取消随机时间模式
-5.<code>git clone https://github.com/z4jst/Telegram-Name-Updating.git</code>\
+5.
+<code>git clone https://github.com/z4jst/Telegram-Name-Updating.git</code>\
 <code>cd Telegram-Name-Updating</code>
 <code>pip3 install -r requirements.txt</code>
 <code>python3 tg_name_update.py</code>
+6. 花式字体展示 https://www.dute.org/weird-fonts
 
 # Telegram-Name-Updating
 
