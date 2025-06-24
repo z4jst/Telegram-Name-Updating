@@ -1,8 +1,12 @@
 ## 自用修改版本（感谢原作者）
-字体和变化时间作为变量放在文件头
-修改 emoji版本。
-pip3 install emoji==1.7.0
-取消随机时间模式
+1. 字体和变化时间作为变量放在文件头
+2. 修改 emoji版本。
+3. <code>pip3 install emoji==1.7.0</code>
+4. 取消随机时间模式
+5.<code>git clone https://github.com/z4jst/Telegram-Name-Updating.git</code>\
+<code>cd Telegram-Name-Updating</code>
+<code>pip3 install -r requirements.txt</code>
+<code>python3 tg_name_update.py</code>
 
 # Telegram-Name-Updating
 
